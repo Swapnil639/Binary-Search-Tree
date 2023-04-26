@@ -34,4 +34,15 @@ public class BinarySearchTree<T extends Comparable<T>> {
         System.out.println(root);
     }
 
+    public void search(T key) {
+         if (root==null){
+             System.out.println("Tree is empty");
+         }
+         if (root.key.compareTo(key)>0){
+             System.out.println("Element found in the data");
+         }
+         else {
+             System.out.println("Element not found in the data");
+         }
+    }
 }

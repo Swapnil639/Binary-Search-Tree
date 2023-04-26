@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9492fc8-fa37-432d-a680-29ce13a98391" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/bst/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/bst/BinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/bst/BinaryTreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/bst/BinaryTreeMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
